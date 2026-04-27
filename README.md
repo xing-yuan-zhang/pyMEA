@@ -1,6 +1,6 @@
 # pyMEA
 
-Cardiomyocyte microelectrode-array (MEA) analysis for beat detection, spatial activation mapping, conduction velocity estimation, beat-amplitude tracking, and pacemaker translocation analysis.
+Microelectrode-array (MEA) analyzer for beat detection, spatial activation mapping, conduction velocity estimation, beat-amplitude tracking, and pacemaker translocation analysis.
 
 ## Method Overview
 
