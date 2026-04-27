@@ -1,0 +1,2 @@
+file_dir,file_name,min_pk_height,min_pk_dist,sample_frequency,toggle_trunc,trunc_start,trunc_end,toggle_silence,silenced_electrodes
+../examples,dummy_data_12_beats.txt,100,1000,1000,false,0,0,false,

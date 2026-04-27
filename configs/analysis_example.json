@@ -1,0 +1,10 @@
+{
+  "min_peak_height": 100.0,
+  "min_peak_distance": 1000.0,
+  "sample_frequency": 1000.0,
+  "toggle_trunc": false,
+  "trunc_start": 0.0,
+  "trunc_end": 0.0,
+  "toggle_silence": false,
+  "silenced_elecs": []
+}
